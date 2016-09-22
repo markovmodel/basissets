@@ -1,1 +1,3 @@
-__author__ = 'noe'
+from .ramachandran import RamachandranBasis
+from .ramachandran import RamachandranProductBasis
+
